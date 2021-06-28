@@ -1,7 +1,3 @@
-// Copyright 2020 lamp
-// Created by lamp on 16.04.2021.
-//
-
 #include <log_setup.hh>
 
 void crawler::init() {

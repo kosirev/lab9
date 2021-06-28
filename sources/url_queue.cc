@@ -1,7 +1,3 @@
-// Copyright 2020 lamp
-// Created by lamp on 5/10/21.
-//
-
 #include <url_queue.hh>
 
 url_queue* url_queue::get_instance(){

@@ -1,7 +1,3 @@
-// Copyright 2020 lamp
-// Created by lamp on 5/10/21.
-//
-
 #include <fstream>
 #include <image_url_queue.hh>
 

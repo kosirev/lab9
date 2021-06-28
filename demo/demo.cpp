@@ -1,7 +1,3 @@
-// Copyright 2020 lamp
-// Created by lamp on 13.04.2021.
-//
-
 #include <html_parser.hh>
 #include <settings.hh>
 #include <downloader.hh>

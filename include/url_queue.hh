@@ -1,7 +1,3 @@
-// Copyright 2020 lamp
-// Created by lamp on 5/10/21.
-//
-
 #ifndef INCLUDE_URL_QUEUE_HH_
 #define INCLUDE_URL_QUEUE_HH_
 

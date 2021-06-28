@@ -1,7 +1,3 @@
-// Copyright 2020 lamp
-// Created by lamp on 17.04.2021.
-//
-
 #ifndef INCLUDE_DOWNLOADER_HH_
 #define INCLUDE_DOWNLOADER_HH_
 
@@ -16,7 +12,7 @@
 #include <iostream>
 #include <string>
 
-// Boost libs
+
 #include <boost/asio/ip/tcp.hpp>
 #include <boost/asio/connect.hpp>
 #include <boost/asio/ssl/error.hpp>

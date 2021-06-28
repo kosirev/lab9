@@ -1,7 +1,3 @@
-// Copyright 2020 lamp
-// Created by lamp on 17.04.2021.
-//
-
 #ifndef INCLUDE_SETTINGS_HH_
 #define INCLUDE_SETTINGS_HH_
 

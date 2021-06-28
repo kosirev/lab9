@@ -1,7 +1,3 @@
-// Copyright 2020 lamp
-// Created by lamp on 17.04.2021.
-//
-
 #include <settings.hh>
 
 settings* settings::get_instance() {
